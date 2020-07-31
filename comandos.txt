@@ -1,0 +1,4 @@
+git clone <caminho> 
+git add *
+git commit -m "Prova final"
+git push origin master
